@@ -4,6 +4,7 @@
   "bin": {
     "aws-cdk": "bin/aws-cdk.js"
   },
+  "packageManager": "pnpm@10.6.5",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
